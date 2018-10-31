@@ -1,3 +1,1 @@
-#display hello
-
 echo hello
