@@ -1,6 +1,7 @@
 ### hello.sh
 
 ### Explanantion
+----------------------------
 Script that prints "hello"
 
 1. hello.sh - Scrip that prints 'hello'.
